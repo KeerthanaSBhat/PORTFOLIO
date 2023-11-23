@@ -211,6 +211,7 @@ body{
     .about-left-content{
         position: absolute;
         width:80%
+        
     
     }
 }
@@ -222,7 +223,8 @@ body{
 .credit a{
     text-decoration: none;
     color:#ff2121;
-    font-weight: bold;
+    font-weight: bold; 
+    
 } 
 
 
